@@ -7,6 +7,8 @@
 🐦 Twitter/X: [@tomasebm](https://x.com/tomasebm)  
 💼 LinkedIn: [tomasebm](https://www.linkedin.com/in/tomasebm/)
 
+**Si querés recibir más información sobre inferencia local y seguridad, suscribite en https://homebrew-ai.web.app/**
+
 ---
 
 ## 📚 Referencias
